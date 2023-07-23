@@ -32,5 +32,5 @@
 
 **Contact**
 
-    If you have any questions or need further assistance, you can contact the development team at contact@example.com.
+    If you have any questions or need further assistance, you can contact the development team at ashish1500515@gmail.com.
 
