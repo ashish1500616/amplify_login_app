@@ -1,0 +1,23 @@
+# Flutter/Dart specific
+.dart_tool/
+.idea/
+.vscode/
+.packages
+pubspec.lock
+build/
+
+# Android specific
+android/build/
+android/app/build/
+android/.gradle/
+android/gradle/
+
+# iOS specific
+ios/Pods/
+ios/.symlinks/
+ios/.flutter-plugins
+ios/.gradle/
+Runner.xcworkspace/
+
+
+amplifyconfiguration.dart
