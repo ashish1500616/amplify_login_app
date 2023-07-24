@@ -4,6 +4,14 @@
 
     This application is designed to facilitate the user registration process using AWS Amplify and Cognito. AWS Amplify is a development platform provided by Amazon Web Services (AWS) that enables developers to build secure and scalable applications quickly. Amazon Cognito is a fully managed service that handles user sign-up, sign-in, and access control to help you securely manage user identities.
 
+**Screenshot**
+
+![Sign-Up Page](https://github.com/ashish1500616/amplify_login_app/blob/main/screenshot/sign-up-page.png)
+
+![Sign-Up-Verification Page](https://github.com/ashish1500616/amplify_login_app/blob/main/screenshot/sign-up-verification.png)
+
+![Signed In Page](https://github.com/ashish1500616/amplify_login_app/blob/main/screenshot/sign-in-page.png)
+
 **Features**
     
     User Registration: The application provides a user-friendly interface for users to register their accounts using their email address and a secure password.
@@ -32,5 +40,6 @@
 
 **Contact**
 
-    If you have any questions or need further assistance, you can contact the development team at ashish1500515@gmail.com.
+    If you have any questions or need further assistance, you can contact the development team at ashish1500616@gmail.com.
+
 
